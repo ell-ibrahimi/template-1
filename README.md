@@ -1,2 +1,2 @@
 # template-one-practice
-<https://ell-ibrahimi.github.io/template-1/>
+<https://prototype-rezero.github.io/template-1/>
